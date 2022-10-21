@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajvardhan
 - 👀 I’m interested in Quantum Computing
-- 🌱 I’m currently learning C language and Python
+- 🌱 I’m currently learning JavaScript,C, and Python
 - 💞️ I’m looking to collaborate on Discord
 - 📫 How to reach me - Reach me at @rajvardhan.bhujbal07@gmail.com
 
